@@ -1,4 +1,4 @@
-# Video-Salience-Map-Parallelization
+# Video Saliency (DeepGazeIIE) Parallelization
 The goal of this project is to run DeepGazeIIE in parallel.
 
 The data from DeepGazeIIE is then overlayed as a heatmap on top of the original video for the output.
